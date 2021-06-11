@@ -1,0 +1,9 @@
+  1 l milk = 4 cups
+ rice = 3 table spoon 
+ sugar = 1/2 cup 
+ custurd powder = 1 table spoon
+ kewda essence = 1 to 2 drops
+ green cardamon poweder = 1/2 tea spoon
+ pistachios = 7 to 8 pieced
+ almonds = 7 to 8 pieced 
+ cashewnut = 7 to 8 pieced
